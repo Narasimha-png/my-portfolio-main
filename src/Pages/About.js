@@ -24,7 +24,7 @@ function About() {
               <div className="col col-6 border-line-v">
                 <div className="text-box"  data-aos="fade-up">
                   <p>
-                    <b>I'm</b>3rd year student pursuing
+                    <b>I'm</b> a 3rd year student pursuing
                     Computer Science and Engineering from Sree Vidyanikethan Engineering College. I like Doing competative coding and making web development related projects
                     the simple and minimalistic design and I also love learning new things and technologies. 
                     I like to desing website that help other by passion.
