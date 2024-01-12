@@ -108,7 +108,7 @@ const Home = () => {
               aria-label="whatsapp"
             
             >
-              <FaWhatsapp   data-aos="fade-up"
+              <FaWhatsapp data-aos="fade-up"
               data-aos-delay="200" />
             </a>
 
