@@ -102,7 +102,7 @@ const Home = () => {
 
             <a
               className="link"
-              href="https://wa.me/8008130603"
+              href="https://wa.me/918008130603"
               rel="noreferrer"
               target="_blank"
               aria-label="whatsapp"
