@@ -102,7 +102,7 @@ const Home = () => {
 
             <a
               className="link"
-              href="whatsapp://send?abid=8008130603&text=Hello%2C%20Narasimha S!"
+              href="https://wa.me/8008130603"
               rel="noreferrer"
               target="_blank"
               aria-label="whatsapp"
